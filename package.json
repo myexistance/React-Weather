@@ -2,7 +2,7 @@
   "name": "myfirstreact",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://myexistance.github.io/React-Weather",
+  "homepage": "http://myexistance.github.io/React-Weather",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^16.9.0",
